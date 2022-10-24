@@ -2771,3 +2771,10 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+
+### NAME: [Manan Mal](https://github.com/Man-an-mal)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Science & Engineering Student
+- Github: [Manan Mal](https://github.com/Man-an-mal)
